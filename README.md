@@ -5,3 +5,5 @@ Using an appropriate machine learning algorithm make a model which takes the per
 Dataset link that may be used: https://www.kaggle.com/c/titanic-dataset/data 
 
 Link to Colab Notebook: https://colab.research.google.com/drive/19c7SUziYDcyPQW8Jbz7XlfxC1C66DeIs?usp=sharing
+
+
